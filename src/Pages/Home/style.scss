@@ -1,0 +1,27 @@
+.App {
+  .pokedex {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 30px;
+
+    .pokemon {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      img {
+        width: 100%;
+      }
+
+      .types {
+        display: flex;
+        gap: 20px;
+
+        img {
+          width: 50%;
+        }
+      }
+    }
+  }
+}
