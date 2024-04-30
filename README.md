@@ -1,3 +1,26 @@
+# API Pokémon - Explorez les Index
+
+## Description
+Ce projet utilise React pour créer une application web interactive qui permet aux utilisateurs d'explorer divers Pokémon via une API publique. Les utilisateurs peuvent visualiser des informations détaillées sur chaque Pokémon, y compris des images, des statistiques, et plus encore, offrant une expérience ludique et éducative sur l'univers Pokémon.
+
+## Fonctionnalités
+- **Exploration Dynamique :** Recherche et affichage dynamique des informations des Pokémon.
+- **Interface Intuitive :** Utilisation de React pour une interface réactive et facile à naviguer.
+- **Intégration API :** Connexion à l'API Pokémon pour récupérer et afficher les données en temps réel.
+
+## Technologies Utilisées
+- **React.js :** Gère l'interface utilisateur et l'interaction dynamique.
+- **HTML/CSS :** Structure et style de l'application.
+- **API Pokémon :** Source de données externe pour les informations des Pokémon.
+
+## Comment Commencer
+Pour démarrer avec ce projet, assurez-vous d'avoir Node.js installé sur votre machine. Ensuite, suivez ces étapes :
+
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/votreNomUtilisateur/nomDuDepot.git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
